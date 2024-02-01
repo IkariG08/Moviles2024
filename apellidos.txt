@@ -2,4 +2,5 @@ apellidos:
 Cárdenaz 
 López
 Mendoza 
-Giorgio es gay
+Pérez
+Gómez 
